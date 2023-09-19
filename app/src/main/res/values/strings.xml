@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jetpack Compose</string>
+    <string name="title_activity_row_column">RowColumnActivity</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
+    <string name="title_activity_composable_function">ComposableFunctionActivity</string>
+    <string name="title_activity_state">StateActivity</string>
+    <string name="title_activity_scaffold">ScaffoldActivity</string>
+    <string name="title_activity_simple_application">SimpleApplicationActivity</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+</resources>
